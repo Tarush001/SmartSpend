@@ -88,9 +88,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-Make sure to replace `link_to_logo.png` with the actual link or path to your project's logo and update the installation and usage instructions as needed to match the specifics of your project. Additionally, you may want to include information about how to run tests, deploy the application, or any other relevant details specific to your project.
-
-
 
 
 
